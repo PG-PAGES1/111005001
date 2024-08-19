@@ -1,0 +1,83 @@
+
+freestart.png
+size: 1531,1531
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bl_banner
+  rotate: true
+  xy: 359, 69
+  size: 66, 738
+  orig: 66, 738
+  offset: 0, 0
+  index: -1
+bl_bg_ray
+  rotate: false
+  xy: 876, 139
+  size: 540, 632
+  orig: 540, 632
+  offset: 0, 0
+  index: -1
+bl_gem_a
+  rotate: false
+  xy: 1260, 12
+  size: 84, 125
+  orig: 87, 126
+  offset: 2, 1
+  index: -1
+bl_gem_b
+  rotate: true
+  xy: 1099, 26
+  size: 111, 159
+  orig: 115, 162
+  offset: 2, 3
+  index: -1
+bl_gem_c
+  rotate: false
+  xy: 1346, 13
+  size: 84, 124
+  orig: 88, 126
+  offset: 2, 2
+  index: -1
+bl_num_shine
+  rotate: false
+  xy: 2, 2
+  size: 355, 355
+  orig: 355, 355
+  offset: 0, 0
+  index: -1
+bl_plate_a
+  rotate: true
+  xy: 1099, 773
+  size: 756, 372
+  orig: 756, 372
+  offset: 0, 0
+  index: -1
+bl_plate_b
+  rotate: true
+  xy: 544, 565
+  size: 342, 265
+  orig: 342, 265
+  offset: 0, 0
+  index: -1
+bl_trans_glow
+  rotate: false
+  xy: 359, 137
+  size: 515, 220
+  orig: 515, 220
+  offset: 0, 0
+  index: -1
+bl_trans_sweep
+  rotate: false
+  xy: 544, 909
+  size: 540, 620
+  orig: 540, 620
+  offset: 0, 0
+  index: -1
+mianfeikaishijiemiantu
+  rotate: false
+  xy: 2, 359
+  size: 540, 1170
+  orig: 540, 1170
+  offset: 0, 0
+  index: -1

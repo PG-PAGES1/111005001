@@ -1,0 +1,132 @@
+
+freeend.png
+size: 1585,1585
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bl_bg_ray
+  rotate: false
+  xy: 544, 951
+  size: 540, 632
+  orig: 540, 632
+  offset: 0, 0
+  index: -1
+bl_trans_glow
+  rotate: false
+  xy: 544, 107
+  size: 515, 220
+  orig: 515, 220
+  offset: 0, 0
+  index: -1
+bl_trans_sweep
+  rotate: false
+  xy: 544, 329
+  size: 540, 620
+  orig: 540, 620
+  offset: 0, 0
+  index: -1
+mianfeijiesuanbeijintu
+  rotate: false
+  xy: 2, 413
+  size: 540, 1170
+  orig: 540, 1170
+  offset: 0, 0
+  index: -1
+saog/tw_plate_sweep_00
+  rotate: false
+  xy: 1061, 217
+  size: 238, 23
+  orig: 756, 43
+  offset: 258, 11
+  index: -1
+saog/tw_plate_sweep_01
+  rotate: false
+  xy: 1237, 1038
+  size: 304, 23
+  orig: 756, 43
+  offset: 225, 11
+  index: -1
+saog/tw_plate_sweep_02
+  rotate: false
+  xy: 1061, 242
+  size: 390, 23
+  orig: 756, 43
+  offset: 182, 11
+  index: -1
+saog/tw_plate_sweep_03
+  rotate: false
+  xy: 1061, 267
+  size: 492, 23
+  orig: 756, 43
+  offset: 131, 11
+  index: -1
+saog/tw_plate_sweep_04
+  rotate: false
+  xy: 2, 2
+  size: 605, 23
+  orig: 756, 43
+  offset: 74, 11
+  index: -1
+saog/tw_plate_sweep_05
+  rotate: true
+  xy: 1555, 99
+  size: 726, 23
+  orig: 756, 43
+  offset: 14, 11
+  index: -1
+saog/tw_plate_sweep_06
+  rotate: true
+  xy: 1550, 827
+  size: 756, 27
+  orig: 756, 43
+  offset: 0, 9
+  index: -1
+saog/tw_plate_sweep_07
+  rotate: false
+  xy: 544, 78
+  size: 756, 27
+  orig: 756, 43
+  offset: 0, 8
+  index: -1
+saog/tw_plate_sweep_08
+  rotate: false
+  xy: 544, 49
+  size: 756, 27
+  orig: 756, 43
+  offset: 0, 8
+  index: -1
+saog/tw_plate_sweep_09
+  rotate: false
+  xy: 609, 20
+  size: 756, 27
+  orig: 756, 43
+  offset: 0, 8
+  index: -1
+smw_shine_a
+  rotate: false
+  xy: 1086, 292
+  size: 454, 454
+  orig: 454, 454
+  offset: 0, 0
+  index: -1
+tw_banner
+  rotate: false
+  xy: 1086, 748
+  size: 149, 835
+  orig: 149, 835
+  offset: 0, 0
+  index: -1
+tw_diamond
+  rotate: true
+  xy: 1237, 1063
+  size: 520, 311
+  orig: 524, 316
+  offset: 2, 3
+  index: -1
+tw_plate
+  rotate: false
+  xy: 2, 27
+  size: 540, 384
+  orig: 540, 392
+  offset: 0, 1
+  index: -1

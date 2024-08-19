@@ -1,0 +1,76 @@
+
+runfast.jpg
+size: 1024,982
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiasutexiao/fs_glow_00
+  rotate: false
+  xy: 2, 380
+  size: 138, 600
+  orig: 196, 604
+  offset: 3, 4
+  index: -1
+jiasutexiao/fs_glow_01
+  rotate: false
+  xy: 142, 380
+  size: 138, 600
+  orig: 196, 604
+  offset: 3, 4
+  index: -1
+jiasutexiao/fs_glow_02
+  rotate: false
+  xy: 282, 380
+  size: 138, 600
+  orig: 196, 604
+  offset: 3, 4
+  index: -1
+jiasutexiao/fs_glow_03
+  rotate: true
+  xy: 422, 842
+  size: 138, 600
+  orig: 196, 604
+  offset: 3, 4
+  index: -1
+jiasutexiao/fs_glow_04
+  rotate: true
+  xy: 422, 702
+  size: 138, 600
+  orig: 196, 604
+  offset: 3, 4
+  index: -1
+jiasutexiao/fs_glow_05
+  rotate: true
+  xy: 422, 562
+  size: 138, 600
+  orig: 196, 604
+  offset: 3, 4
+  index: -1
+jiasutexiao/fs_glow_06
+  rotate: true
+  xy: 422, 422
+  size: 138, 600
+  orig: 196, 604
+  offset: 3, 4
+  index: -1
+jiasutexiao/fs_glow_07
+  rotate: true
+  xy: 422, 282
+  size: 138, 600
+  orig: 196, 604
+  offset: 3, 4
+  index: -1
+jiasutexiao/fs_glow_08
+  rotate: true
+  xy: 2, 142
+  size: 138, 600
+  orig: 196, 604
+  offset: 3, 4
+  index: -1
+jiasutexiao/fs_glow_09
+  rotate: true
+  xy: 2, 2
+  size: 138, 600
+  orig: 196, 604
+  offset: 3, 4
+  index: -1
